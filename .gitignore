@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment & Secrets
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Local Outputs & Cache
+downloads/
+history.json
+
+# Logs & OS
+*.log
+.DS_Store
+Desktop.ini
+Thumbs.db
